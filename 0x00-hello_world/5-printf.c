@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
 * main - starting point of the program
 *
 * Description: prints a simple string
