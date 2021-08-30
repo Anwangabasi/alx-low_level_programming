@@ -1,0 +1,12 @@
+#include <stdio.h>
+/*
+*main - starting point of the program
+*
+*Description: prints a simple string
+*Return: 0 if program executes properly, else a non-zero number
+*/
+int main(void)
+{
+  puts("\"Programming islike building a multilingual puzzle");
+  return (0);
+}
