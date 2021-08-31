@@ -8,15 +8,15 @@
 */
 int print_alphabet(void)
 {
-  char ch;
+char ch;
 
-  ch = 'a';
+ch = 'a';
 
-  while (ch <= '2')
-  {
-      _putchar(ch);
-      ch++;
-  }
-  _putchar('\n');
-  return (0);
+while (ch <= 'z')
+{
+_putchar(ch);
+ch++;
+}
+_putchar('\n');
+return (0);
 }
